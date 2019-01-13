@@ -21,3 +21,4 @@ def seach_Binary(lst, x):
 lst=[2,5,7,9,11,17,222]
 print (seach_Binary(lst,11))
 print (seach_Binary(lst,12))
+# dsjkgfhsdjkgdhsjkgf
