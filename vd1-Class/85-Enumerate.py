@@ -12,3 +12,4 @@ print([x for x in [12,24,35,70,88,120,155] if x % 5 != 0 and x % 7 ])
 #Viết chương trình in list sau khi đã xóa số thứ 0, thứ 2, thứ 4, thứ 6 trong [12,24,35,70,88,120,155].
 #enumerate lấy dc index, value
 print([x for i,x in enumerate([12,24,35,70,88,120,155]) if x % 2 != 0])
+# Edit master
