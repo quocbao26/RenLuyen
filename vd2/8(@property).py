@@ -20,3 +20,10 @@ print(bao.getName)
 # an.old = 15
 # print(an.name)
 # print(an.old)
+
+n = eval(input())
+if not isinstance(n, float):
+    print("Khong phai int")
+else:
+    print("la int")
+
