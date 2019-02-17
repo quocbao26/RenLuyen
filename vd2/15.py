@@ -7,3 +7,4 @@ value = []
 for i in range(1000, 3001,2):
     value.append(str(i))
 print(",".join(value))
+
